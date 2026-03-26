@@ -58,11 +58,11 @@
 ## 🔤 Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-51.4%25-00ADD8?style=flat-square" alt="Go" />
-  <img src="https://img.shields.io/badge/TypeScript-25.4%25-3178C6?style=flat-square" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-50.9%25-00ADD8?style=flat-square" alt="Go" />
+  <img src="https://img.shields.io/badge/TypeScript-25.2%25-3178C6?style=flat-square" alt="TypeScript" />
   <img src="https://img.shields.io/badge/PHP-10.5%25-777BB4?style=flat-square" alt="PHP" />
-  <img src="https://img.shields.io/badge/Shell-3.8%25-89E051?style=flat-square" alt="Shell" />
-  <img src="https://img.shields.io/badge/HTML-3.5%25-E34F26?style=flat-square" alt="HTML" />
+  <img src="https://img.shields.io/badge/Shell-4.6%25-89E051?style=flat-square" alt="Shell" />
+  <img src="https://img.shields.io/badge/HTML-3.4%25-E34F26?style=flat-square" alt="HTML" />
   <img src="https://img.shields.io/badge/JavaScript-3.3%25-F7DF1E?style=flat-square" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Dockerfile-1.1%25-384D54?style=flat-square" alt="Dockerfile" />
 </p>
