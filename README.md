@@ -1,25 +1,50 @@
-<h1 align="center">Gauthier Painteaux</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Lead Developer Fullstack</strong> · Reims, France 🇫🇷<br/>
-  7+ ans d'expérience en conception et développement d'applications web modernes
-</p>
+# Gauthier Painteaux
 
-<p align="center">
-  <a href="https://gauthierpainteaux.fr"><img src="https://img.shields.io/badge/Portfolio-C68908?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/gauthier-painteaux-1018a2167"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIwOCAwIDIyLjIyNSAweiIvPjwvc3ZnPgo=&logoColor=white" /></a>
-  <a href="mailto:contact@gauthierpainteaux.fr"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+**Lead Developer Fullstack** · Reims, France 🇫🇷
+
+7+ ans d'expérience en conception et développement d'applications web modernes
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-C68908?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gauthierpainteaux.fr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIwOCAwIDIyLjIyNSAweiIvPjwvc3ZnPgo=&logoColor=white)](https://linkedin.com/in/gauthier-painteaux-1018a2167) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@gauthierpainteaux.fr)
 
 ---
 
-### 🏢 Actuellement
+</div>
+
+## 🏢 Actuellement
 
 **Lead Developer** chez [Koul](https://koul.io) — pilotage technique et développement fullstack sur une stack **Next.js · TypeScript · Symfony · Docker**.
 
 ---
 
-### 🛠 Stack technique
+<!-- TOP_PROJECTS:START -->
+## 🏆 Top Projects
+
+| | Project | Description | ⭐ |
+|---|---------|-------------|----|
+| 1 | **[database-backup](https://github.com/Greite/database-backup)** | Lightweight Docker container to automate PostgreSQL, MariaDB/MySQL, and MongoDB backups via cron | 1 |
+| 2 | **[portfolio](https://github.com/Greite/portfolio)** | Portfolio personnel de Gauthier Painteaux - Développeur web fullstack basé à Reims, France. Built with Next.js, React, TypeScript & Tailwind CSS. | 1 |
+| 3 | **[unraid-tui](https://github.com/Greite/unraid-tui)** | Terminal UI for monitoring and managing Unraid servers | 1 |
+<!-- TOP_PROJECTS:END -->
+
+---
+
+<!-- RECENT_ACTIVITY:START -->
+## 🕐 Activité récente
+
+| Project | Description | Last Push |
+|---------|-------------|-----------|
+| **[portfolio](https://github.com/Greite/portfolio)** | Portfolio personnel de Gauthier Painteaux - Développeur web fullstack basé à Reims, France. Built with Next.js, React, TypeScript & Tailwind CSS. | `2026-03-26` |
+| **[database-backup](https://github.com/Greite/database-backup)** | Lightweight Docker container to automate PostgreSQL, MariaDB/MySQL, and MongoDB backups via cron | `2026-03-26` |
+| **[wordpress-redis](https://github.com/Greite/wordpress-redis)** | WordPress Docker image with phpredis extension, auto-updated from upstream | `2026-03-26` |
+| **[unraid-tui](https://github.com/Greite/unraid-tui)** | Terminal UI for monitoring and managing Unraid servers | `2026-03-24` |
+| **[homebrew-tap](https://github.com/Greite/homebrew-tap)** | Homebrew tap for Greite projects | `2026-03-23` |
+<!-- RECENT_ACTIVITY:END -->
+
+---
+
+## 🛠 Stack technique
 
 | Domaine | Technologies |
 |---------|-------------|
@@ -29,7 +54,23 @@
 
 ---
 
-### 📋 Parcours
+<!-- LANGUAGES:START -->
+## 🔤 Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-51.4%25-00ADD8?style=flat-square" alt="Go" />
+  <img src="https://img.shields.io/badge/TypeScript-25.4%25-3178C6?style=flat-square" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PHP-10.5%25-777BB4?style=flat-square" alt="PHP" />
+  <img src="https://img.shields.io/badge/Shell-3.8%25-89E051?style=flat-square" alt="Shell" />
+  <img src="https://img.shields.io/badge/HTML-3.5%25-E34F26?style=flat-square" alt="HTML" />
+  <img src="https://img.shields.io/badge/JavaScript-3.3%25-F7DF1E?style=flat-square" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Dockerfile-1.1%25-384D54?style=flat-square" alt="Dockerfile" />
+</p>
+<!-- LANGUAGES:END -->
+
+---
+
+## 📋 Parcours
 
 | Période | Entreprise | Rôle |
 |---------|-----------|------|
