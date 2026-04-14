@@ -24,8 +24,8 @@
 | | Project | Description | ⭐ |
 |---|---------|-------------|----|
 | 1 | **[database-backup](https://github.com/Greite/database-backup)** | Lightweight Docker container to automate PostgreSQL, MariaDB/MySQL, and MongoDB backups via cron | 1 |
-| 2 | **[portfolio](https://github.com/Greite/portfolio)** | Portfolio personnel de Gauthier Painteaux - Développeur web fullstack basé à Reims, France. Built with Next.js, React, TypeScript & Tailwind CSS. | 1 |
-| 3 | **[unraid-tui](https://github.com/Greite/unraid-tui)** | Terminal UI for monitoring and managing Unraid servers | 1 |
+| 2 | **[grepai-docker](https://github.com/Greite/grepai-docker)** | Unofficial Docker image for grepai - semantic code search CLI | 1 |
+| 3 | **[portfolio](https://github.com/Greite/portfolio)** | Portfolio personnel de Gauthier Painteaux - Développeur web fullstack basé à Reims, France. Built with Next.js, React, TypeScript & Tailwind CSS. | 1 |
 <!-- TOP_PROJECTS:END -->
 
 ---
@@ -35,11 +35,11 @@
 
 | Project | Description | Last Push |
 |---------|-------------|-----------|
+| **[grepai-docker](https://github.com/Greite/grepai-docker)** | Unofficial Docker image for grepai - semantic code search CLI | `2026-04-13` |
 | **[database-backup](https://github.com/Greite/database-backup)** | Lightweight Docker container to automate PostgreSQL, MariaDB/MySQL, and MongoDB backups via cron | `2026-03-30` |
 | **[wordpress-redis](https://github.com/Greite/wordpress-redis)** | WordPress Docker image with phpredis extension, auto-updated from upstream | `2026-03-30` |
 | **[portfolio](https://github.com/Greite/portfolio)** | Portfolio personnel de Gauthier Painteaux - Développeur web fullstack basé à Reims, France. Built with Next.js, React, TypeScript & Tailwind CSS. | `2026-03-26` |
 | **[unraid-tui](https://github.com/Greite/unraid-tui)** | Terminal UI for monitoring and managing Unraid servers | `2026-03-24` |
-| **[homebrew-tap](https://github.com/Greite/homebrew-tap)** | Homebrew tap for Greite projects | `2026-03-23` |
 <!-- RECENT_ACTIVITY:END -->
 
 ---
@@ -60,11 +60,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Go-50.9%25-00ADD8?style=flat-square" alt="Go" />
   <img src="https://img.shields.io/badge/TypeScript-25.2%25-3178C6?style=flat-square" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/PHP-10.5%25-777BB4?style=flat-square" alt="PHP" />
+  <img src="https://img.shields.io/badge/PHP-10.4%25-777BB4?style=flat-square" alt="PHP" />
   <img src="https://img.shields.io/badge/Shell-4.6%25-89E051?style=flat-square" alt="Shell" />
   <img src="https://img.shields.io/badge/HTML-3.4%25-E34F26?style=flat-square" alt="HTML" />
   <img src="https://img.shields.io/badge/JavaScript-3.3%25-F7DF1E?style=flat-square" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Dockerfile-1.1%25-384D54?style=flat-square" alt="Dockerfile" />
+  <img src="https://img.shields.io/badge/Dockerfile-1.3%25-384D54?style=flat-square" alt="Dockerfile" />
 </p>
 <!-- LANGUAGES:END -->
 
