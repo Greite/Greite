@@ -35,11 +35,11 @@
 
 | Project | Description | Last Push |
 |---------|-------------|-----------|
+| **[jean-michel-volume](https://github.com/Greite/jean-michel-volume)** | Jean-Michel Volume - Controlez le volume Spotify avec votre voix. Enregistrez 5 secondes et le volume s'ajuste automatiquement au pic maximum. | `2026-04-14` |
+| **[portfolio](https://github.com/Greite/portfolio)** | Portfolio personnel de Gauthier Painteaux - Développeur web fullstack basé à Reims, France. Built with Next.js, React, TypeScript & Tailwind CSS. | `2026-04-14` |
 | **[grepai-docker](https://github.com/Greite/grepai-docker)** | Unofficial Docker image for grepai - semantic code search CLI | `2026-04-13` |
 | **[database-backup](https://github.com/Greite/database-backup)** | Lightweight Docker container to automate PostgreSQL, MariaDB/MySQL, and MongoDB backups via cron | `2026-03-30` |
 | **[wordpress-redis](https://github.com/Greite/wordpress-redis)** | WordPress Docker image with phpredis extension, auto-updated from upstream | `2026-03-30` |
-| **[portfolio](https://github.com/Greite/portfolio)** | Portfolio personnel de Gauthier Painteaux - Développeur web fullstack basé à Reims, France. Built with Next.js, React, TypeScript & Tailwind CSS. | `2026-03-26` |
-| **[unraid-tui](https://github.com/Greite/unraid-tui)** | Terminal UI for monitoring and managing Unraid servers | `2026-03-24` |
 <!-- RECENT_ACTIVITY:END -->
 
 ---
@@ -58,8 +58,8 @@
 ## 🔤 Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-50.9%25-00ADD8?style=flat-square" alt="Go" />
-  <img src="https://img.shields.io/badge/TypeScript-25.2%25-3178C6?style=flat-square" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-50.8%25-00ADD8?style=flat-square" alt="Go" />
+  <img src="https://img.shields.io/badge/TypeScript-25.3%25-3178C6?style=flat-square" alt="TypeScript" />
   <img src="https://img.shields.io/badge/PHP-10.4%25-777BB4?style=flat-square" alt="PHP" />
   <img src="https://img.shields.io/badge/Shell-4.6%25-89E051?style=flat-square" alt="Shell" />
   <img src="https://img.shields.io/badge/HTML-3.4%25-E34F26?style=flat-square" alt="HTML" />
