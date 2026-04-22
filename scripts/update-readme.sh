@@ -25,8 +25,8 @@ OWN_REPOS=$(echo "$REPO_DATA" | jq '[.[] | select(.fork == false)]')
 # ---------- Top Projects ----------
 
 TOP_PROJECTS=$(echo "$OWN_REPOS" | jq -r '
-  sort_by(-.stargazers_count) | .[0:3] | to_entries[] |
-  "| \(.key + 1) | **[\(.value.name)](https://github.com/'"${USERNAME}"'/\(.value.name))** | \(.value.description // "—" | gsub("\\|"; "\\\\|")) | \(.value.stargazers_count) |"
+  sort_by(-.stargazers_count) | .[0:5] | to_entries[] |
+  "| \(.key + 1) | **[\(.value.name)](https://github.com/'"${USERNAME}"'/\(.value.name))** | \(.value.description // "-" | gsub("\\|"; "\\\\|")) | \(.value.stargazers_count) |"
 ')
 
 TOP_PROJECTS_CONTENT="## 🏆 Top Projects
@@ -42,7 +42,7 @@ RECENT=$(echo "$OWN_REPOS" | jq -r '
   sort_by(.pushed_at) | reverse | .[0:5][] |
   {
     name: .name,
-    desc: (.description // "—" | gsub("\\|"; "\\\\|")),
+    desc: (.description // "-" | gsub("\\|"; "\\\\|")),
     date: (.pushed_at | split("T")[0])
   } |
   "| **[\(.name)](https://github.com/'"${USERNAME}"'/\(.name))** | \(.desc) | `\(.date)` |"

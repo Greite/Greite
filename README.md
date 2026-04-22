@@ -14,7 +14,7 @@
 
 ## 🏢 Actuellement
 
-**Lead Developer** chez [Koul](https://koul.io) — pilotage technique et développement fullstack sur une stack **Next.js · TypeScript · Symfony · Docker**.
+**Lead Developer** chez [Koul](https://koul.io) - pilotage technique et développement fullstack sur une stack **Next.js · TypeScript · Symfony · Docker**.
 
 ---
 
@@ -26,6 +26,8 @@
 | 1 | **[database-backup](https://github.com/Greite/database-backup)** | Lightweight Docker container to automate PostgreSQL, MariaDB/MySQL, and MongoDB backups via cron | 1 |
 | 2 | **[grepai-docker](https://github.com/Greite/grepai-docker)** | Unofficial Docker image for grepai - semantic code search CLI | 1 |
 | 3 | **[portfolio](https://github.com/Greite/portfolio)** | Portfolio personnel de Gauthier Painteaux - Développeur web fullstack basé à Reims, France. Built with Next.js, React, TypeScript & Tailwind CSS. | 1 |
+| 4 | **[speedtest-monitor](https://github.com/Greite/speedtest-monitor)** | Self-hosted internet speed monitor (Cloudflare speedtest) with alerts, OIDC auth, live dashboard. Bun + Next.js 16 + SQLite. | 1 |
+| 5 | **[unraid-tui](https://github.com/Greite/unraid-tui)** | Terminal UI for monitoring and managing Unraid servers | 1 |
 <!-- TOP_PROJECTS:END -->
 
 ---
@@ -35,7 +37,7 @@
 
 | Project | Description | Last Push |
 |---------|-------------|-----------|
-| **[speedtest-monitor](https://github.com/Greite/speedtest-monitor)** | Self-hosted internet speed monitor (Cloudflare speedtest) with alerts, OIDC auth, live dashboard. Bun + Next.js 16 + SQLite. | `2026-04-20` |
+| **[speedtest-monitor](https://github.com/Greite/speedtest-monitor)** | Self-hosted internet speed monitor (Cloudflare speedtest) with alerts, OIDC auth, live dashboard. Bun + Next.js 16 + SQLite. | `2026-04-22` |
 | **[jean-michel-volume](https://github.com/Greite/jean-michel-volume)** | Jean-Michel Volume - Controlez le volume Spotify avec votre voix. Enregistrez 5 secondes et le volume s'ajuste automatiquement au pic maximum. | `2026-04-14` |
 | **[portfolio](https://github.com/Greite/portfolio)** | Portfolio personnel de Gauthier Painteaux - Développeur web fullstack basé à Reims, France. Built with Next.js, React, TypeScript & Tailwind CSS. | `2026-04-14` |
 | **[grepai-docker](https://github.com/Greite/grepai-docker)** | Unofficial Docker image for grepai - semantic code search CLI | `2026-04-13` |
@@ -58,12 +60,12 @@
 ## 🔤 Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-53.7%25-3178C6?style=flat-square" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Go-30.5%25-00ADD8?style=flat-square" alt="Go" />
-  <img src="https://img.shields.io/badge/PHP-6.3%25-777BB4?style=flat-square" alt="PHP" />
-  <img src="https://img.shields.io/badge/Shell-2.8%25-89E051?style=flat-square" alt="Shell" />
-  <img src="https://img.shields.io/badge/HTML-2.1%25-E34F26?style=flat-square" alt="HTML" />
-  <img src="https://img.shields.io/badge/JavaScript-2%25-F7DF1E?style=flat-square" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-55.3%25-3178C6?style=flat-square" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-29.3%25-00ADD8?style=flat-square" alt="Go" />
+  <img src="https://img.shields.io/badge/PHP-6%25-777BB4?style=flat-square" alt="PHP" />
+  <img src="https://img.shields.io/badge/Shell-2.7%25-89E051?style=flat-square" alt="Shell" />
+  <img src="https://img.shields.io/badge/HTML-2%25-E34F26?style=flat-square" alt="HTML" />
+  <img src="https://img.shields.io/badge/JavaScript-1.9%25-F7DF1E?style=flat-square" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Dockerfile-1.6%25-384D54?style=flat-square" alt="Dockerfile" />
 </p>
 <!-- LANGUAGES:END -->
