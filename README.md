@@ -37,7 +37,7 @@
 
 | Project | Description | Last Push |
 |---------|-------------|-----------|
-| **[portfolio](https://github.com/Greite/portfolio)** | Portfolio personnel de Gauthier Painteaux - Développeur web fullstack basé à Reims, France. Built with Next.js, React, TypeScript & Tailwind CSS. | `2026-05-04` |
+| **[portfolio](https://github.com/Greite/portfolio)** | Portfolio personnel de Gauthier Painteaux - Développeur web fullstack basé à Reims, France. Built with Next.js, React, TypeScript & Tailwind CSS. | `2026-05-05` |
 | **[speedtest-monitor](https://github.com/Greite/speedtest-monitor)** | Self-hosted internet speed monitor (Cloudflare speedtest) with alerts, OIDC auth, live dashboard. Bun + Next.js 16 + SQLite. | `2026-04-27` |
 | **[jean-michel-volume](https://github.com/Greite/jean-michel-volume)** | Jean-Michel Volume - Controlez le volume Spotify avec votre voix. Enregistrez 5 secondes et le volume s'ajuste automatiquement au pic maximum. | `2026-04-14` |
 | **[grepai-docker](https://github.com/Greite/grepai-docker)** | Unofficial Docker image for grepai - semantic code search CLI | `2026-04-13` |
@@ -60,13 +60,14 @@
 ## 🔤 Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-60.4%25-3178C6?style=flat-square" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Go-25.9%25-00ADD8?style=flat-square" alt="Go" />
-  <img src="https://img.shields.io/badge/PHP-5.3%25-777BB4?style=flat-square" alt="PHP" />
+  <img src="https://img.shields.io/badge/TypeScript-60.6%25-3178C6?style=flat-square" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-25.6%25-00ADD8?style=flat-square" alt="Go" />
+  <img src="https://img.shields.io/badge/PHP-5.2%25-777BB4?style=flat-square" alt="PHP" />
   <img src="https://img.shields.io/badge/Shell-2.3%25-89E051?style=flat-square" alt="Shell" />
   <img src="https://img.shields.io/badge/HTML-1.7%25-E34F26?style=flat-square" alt="HTML" />
   <img src="https://img.shields.io/badge/JavaScript-1.7%25-F7DF1E?style=flat-square" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Dockerfile-1.4%25-384D54?style=flat-square" alt="Dockerfile" />
+  <img src="https://img.shields.io/badge/CSS-1.2%25-1572B6?style=flat-square" alt="CSS" />
 </p>
 <!-- LANGUAGES:END -->
 
