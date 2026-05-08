@@ -37,11 +37,11 @@
 
 | Project | Description | Last Push |
 |---------|-------------|-----------|
+| **[jean-michel-volume](https://github.com/Greite/jean-michel-volume)** | Jean-Michel Volume - Controlez le volume Spotify avec votre voix. Enregistrez 5 secondes et le volume s'ajuste automatiquement au pic maximum. | `2026-05-07` |
+| **[portfolio](https://github.com/Greite/portfolio)** | Portfolio personnel de Gauthier Painteaux - Développeur web fullstack basé à Reims, France. Built with Next.js, React, TypeScript & Tailwind CSS. | `2026-05-07` |
+| **[database-backup](https://github.com/Greite/database-backup)** | Lightweight Docker container to automate PostgreSQL, MariaDB/MySQL, and MongoDB backups via cron | `2026-05-07` |
 | **[speedtest-monitor](https://github.com/Greite/speedtest-monitor)** | Self-hosted internet speed monitor (Cloudflare speedtest) with alerts, OIDC auth, live dashboard. Bun + Next.js 16 + SQLite. | `2026-05-06` |
-| **[portfolio](https://github.com/Greite/portfolio)** | Portfolio personnel de Gauthier Painteaux - Développeur web fullstack basé à Reims, France. Built with Next.js, React, TypeScript & Tailwind CSS. | `2026-05-05` |
-| **[jean-michel-volume](https://github.com/Greite/jean-michel-volume)** | Jean-Michel Volume - Controlez le volume Spotify avec votre voix. Enregistrez 5 secondes et le volume s'ajuste automatiquement au pic maximum. | `2026-04-14` |
 | **[grepai-docker](https://github.com/Greite/grepai-docker)** | Unofficial Docker image for grepai - semantic code search CLI | `2026-04-13` |
-| **[database-backup](https://github.com/Greite/database-backup)** | Lightweight Docker container to automate PostgreSQL, MariaDB/MySQL, and MongoDB backups via cron | `2026-03-30` |
 <!-- RECENT_ACTIVITY:END -->
 
 ---
@@ -60,14 +60,14 @@
 ## 🔤 Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-61.5%25-3178C6?style=flat-square" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Go-24.7%25-00ADD8?style=flat-square" alt="Go" />
-  <img src="https://img.shields.io/badge/PHP-5.1%25-777BB4?style=flat-square" alt="PHP" />
-  <img src="https://img.shields.io/badge/Shell-2.2%25-89E051?style=flat-square" alt="Shell" />
-  <img src="https://img.shields.io/badge/HTML-1.7%25-E34F26?style=flat-square" alt="HTML" />
-  <img src="https://img.shields.io/badge/JavaScript-1.6%25-F7DF1E?style=flat-square" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/CSS-1.6%25-1572B6?style=flat-square" alt="CSS" />
-  <img src="https://img.shields.io/badge/Dockerfile-1.3%25-384D54?style=flat-square" alt="Dockerfile" />
+  <img src="https://img.shields.io/badge/TypeScript-63.4%25-3178C6?style=flat-square" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-22.8%25-00ADD8?style=flat-square" alt="Go" />
+  <img src="https://img.shields.io/badge/PHP-4.7%25-777BB4?style=flat-square" alt="PHP" />
+  <img src="https://img.shields.io/badge/CSS-2.2%25-1572B6?style=flat-square" alt="CSS" />
+  <img src="https://img.shields.io/badge/Shell-2.1%25-89E051?style=flat-square" alt="Shell" />
+  <img src="https://img.shields.io/badge/JavaScript-1.7%25-F7DF1E?style=flat-square" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML-1.5%25-E34F26?style=flat-square" alt="HTML" />
+  <img src="https://img.shields.io/badge/Dockerfile-1.2%25-384D54?style=flat-square" alt="Dockerfile" />
 </p>
 <!-- LANGUAGES:END -->
 
