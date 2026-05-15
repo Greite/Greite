@@ -23,7 +23,7 @@
 
 | | Project | Description | ⭐ |
 |---|---------|-------------|----|
-| 1 | **[speedtest-monitor](https://github.com/Greite/speedtest-monitor)** | Self-hosted internet speed monitor (Cloudflare speedtest) with alerts, OIDC auth, live dashboard. Bun + Next.js 16 + SQLite. | 3 |
+| 1 | **[speedtest-monitor](https://github.com/Greite/speedtest-monitor)** | Self-hosted internet speed monitor (Cloudflare speedtest) with alerts, OIDC auth, live dashboard. Bun + Next.js 16 + SQLite. | 4 |
 | 2 | **[database-backup](https://github.com/Greite/database-backup)** | Lightweight Docker container to automate PostgreSQL, MariaDB/MySQL, and MongoDB backups via cron | 1 |
 | 3 | **[grepai-docker](https://github.com/Greite/grepai-docker)** | Unofficial Docker image for grepai - semantic code search CLI | 1 |
 | 4 | **[portfolio](https://github.com/Greite/portfolio)** | Portfolio personnel de Gauthier Painteaux - Développeur web fullstack basé à Reims, France. Built with Next.js, React, TypeScript & Tailwind CSS. | 1 |
