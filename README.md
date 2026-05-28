@@ -37,9 +37,9 @@
 
 | Project | Description | Last Push |
 |---------|-------------|-----------|
-| **[speedtest-monitor](https://github.com/Greite/speedtest-monitor)** | Self-hosted internet speed monitor (Cloudflare speedtest) with alerts, OIDC auth, live dashboard. Bun + Next.js 16 + SQLite. | `2026-05-26` |
+| **[speedtest-monitor](https://github.com/Greite/speedtest-monitor)** | Self-hosted internet speed monitor (Cloudflare speedtest) with alerts, OIDC auth, live dashboard. Bun + Next.js 16 + SQLite. | `2026-05-27` |
+| **[portfolio](https://github.com/Greite/portfolio)** | Portfolio personnel de Gauthier Painteaux - Développeur web fullstack basé à Reims, France. Built with Next.js, React, TypeScript & Tailwind CSS. | `2026-05-27` |
 | **[unraid-templates](https://github.com/Greite/unraid-templates)** | Unraid Community Applications templates for GreiteTurtle's self-hosted Docker apps (speedtest-monitor, database-backup, ...) | `2026-05-20` |
-| **[portfolio](https://github.com/Greite/portfolio)** | Portfolio personnel de Gauthier Painteaux - Développeur web fullstack basé à Reims, France. Built with Next.js, React, TypeScript & Tailwind CSS. | `2026-05-12` |
 | **[database-backup](https://github.com/Greite/database-backup)** | Lightweight Docker container to automate PostgreSQL, MariaDB/MySQL, and MongoDB backups via cron | `2026-05-11` |
 | **[jean-michel-volume](https://github.com/Greite/jean-michel-volume)** | Jean-Michel Volume - Controlez le volume Spotify avec votre voix. Enregistrez 5 secondes et le volume s'ajuste automatiquement au pic maximum. | `2026-05-07` |
 <!-- RECENT_ACTIVITY:END -->
@@ -60,10 +60,10 @@
 ## 🔤 Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-63.7%25-3178C6?style=flat-square" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Go-22.9%25-00ADD8?style=flat-square" alt="Go" />
+  <img src="https://img.shields.io/badge/TypeScript-63.8%25-3178C6?style=flat-square" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-22.8%25-00ADD8?style=flat-square" alt="Go" />
   <img src="https://img.shields.io/badge/PHP-4.7%25-777BB4?style=flat-square" alt="PHP" />
-  <img src="https://img.shields.io/badge/CSS-2.2%25-1572B6?style=flat-square" alt="CSS" />
+  <img src="https://img.shields.io/badge/CSS-2.3%25-1572B6?style=flat-square" alt="CSS" />
   <img src="https://img.shields.io/badge/Shell-2.1%25-89E051?style=flat-square" alt="Shell" />
   <img src="https://img.shields.io/badge/JavaScript-1.7%25-F7DF1E?style=flat-square" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML-1.5%25-E34F26?style=flat-square" alt="HTML" />
