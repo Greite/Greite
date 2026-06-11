@@ -24,7 +24,7 @@
 | | Project | Description | ⭐ |
 |---|---------|-------------|----|
 | 1 | **[speedtest-monitor](https://github.com/Greite/speedtest-monitor)** | Self-hosted internet speed monitor (Cloudflare speedtest) with alerts, OIDC auth, live dashboard. Bun + Next.js 16 + SQLite. | 4 |
-| 2 | **[database-backup](https://github.com/Greite/database-backup)** | Lightweight Docker container to automate PostgreSQL, MariaDB/MySQL, and MongoDB backups via cron | 1 |
+| 2 | **[database-backup](https://github.com/Greite/database-backup)** | Lightweight Go-powered Docker container for scheduled PostgreSQL, MariaDB/MySQL and MongoDB backups - rotation, gpg/age encryption, native healthchecks | 1 |
 | 3 | **[portfolio](https://github.com/Greite/portfolio)** | Portfolio personnel de Gauthier Painteaux - Développeur web fullstack basé à Reims, France. Built with Next.js, React, TypeScript & Tailwind CSS. | 1 |
 | 4 | **[unraid-tui](https://github.com/Greite/unraid-tui)** | Terminal UI for monitoring and managing Unraid servers | 1 |
 | 5 | **[wordpress-redis](https://github.com/Greite/wordpress-redis)** | WordPress Docker image with phpredis extension, auto-updated from upstream | 1 |
@@ -37,10 +37,10 @@
 
 | Project | Description | Last Push |
 |---------|-------------|-----------|
+| **[database-backup](https://github.com/Greite/database-backup)** | Lightweight Go-powered Docker container for scheduled PostgreSQL, MariaDB/MySQL and MongoDB backups - rotation, gpg/age encryption, native healthchecks | `2026-06-11` |
+| **[unraid-templates](https://github.com/Greite/unraid-templates)** | Unraid Community Applications templates for GreiteTurtle's self-hosted Docker apps (speedtest-monitor, database-backup, ...) | `2026-06-11` |
 | **[speedtest-monitor](https://github.com/Greite/speedtest-monitor)** | Self-hosted internet speed monitor (Cloudflare speedtest) with alerts, OIDC auth, live dashboard. Bun + Next.js 16 + SQLite. | `2026-06-03` |
 | **[portfolio](https://github.com/Greite/portfolio)** | Portfolio personnel de Gauthier Painteaux - Développeur web fullstack basé à Reims, France. Built with Next.js, React, TypeScript & Tailwind CSS. | `2026-06-03` |
-| **[unraid-templates](https://github.com/Greite/unraid-templates)** | Unraid Community Applications templates for GreiteTurtle's self-hosted Docker apps (speedtest-monitor, database-backup, ...) | `2026-05-20` |
-| **[database-backup](https://github.com/Greite/database-backup)** | Lightweight Docker container to automate PostgreSQL, MariaDB/MySQL, and MongoDB backups via cron | `2026-05-11` |
 | **[jean-michel-volume](https://github.com/Greite/jean-michel-volume)** | Jean-Michel Volume - Controlez le volume Spotify avec votre voix. Enregistrez 5 secondes et le volume s'ajuste automatiquement au pic maximum. | `2026-05-07` |
 <!-- RECENT_ACTIVITY:END -->
 
@@ -60,13 +60,12 @@
 ## 🔤 Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-63.8%25-3178C6?style=flat-square" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Go-22.8%25-00ADD8?style=flat-square" alt="Go" />
-  <img src="https://img.shields.io/badge/PHP-4.7%25-777BB4?style=flat-square" alt="PHP" />
-  <img src="https://img.shields.io/badge/CSS-2.3%25-1572B6?style=flat-square" alt="CSS" />
-  <img src="https://img.shields.io/badge/Shell-2.1%25-89E051?style=flat-square" alt="Shell" />
-  <img src="https://img.shields.io/badge/JavaScript-1.7%25-F7DF1E?style=flat-square" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML-1.5%25-E34F26?style=flat-square" alt="HTML" />
+  <img src="https://img.shields.io/badge/TypeScript-59.9%25-3178C6?style=flat-square" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-29.1%25-00ADD8?style=flat-square" alt="Go" />
+  <img src="https://img.shields.io/badge/PHP-4.4%25-777BB4?style=flat-square" alt="PHP" />
+  <img src="https://img.shields.io/badge/CSS-2.2%25-1572B6?style=flat-square" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-1.6%25-F7DF1E?style=flat-square" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML-1.4%25-E34F26?style=flat-square" alt="HTML" />
 </p>
 <!-- LANGUAGES:END -->
 
