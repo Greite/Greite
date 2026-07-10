@@ -37,10 +37,10 @@
 
 | Project | Description | Last Push |
 |---------|-------------|-----------|
+| **[speedtest-monitor](https://github.com/Greite/speedtest-monitor)** | Self-hosted internet speed monitor (Cloudflare speedtest) with alerts, OIDC auth, live dashboard. Bun + Next.js 16 + SQLite. | `2026-07-10` |
+| **[unraid-templates](https://github.com/Greite/unraid-templates)** | Unraid Community Applications templates for GreiteTurtle's self-hosted Docker apps (speedtest-monitor, database-backup, ...) | `2026-07-09` |
 | **[portfolio](https://github.com/Greite/portfolio)** | Portfolio personnel de Gauthier Painteaux - Développeur web fullstack basé à Reims, France. Built with Next.js, React, TypeScript & Tailwind CSS. | `2026-07-09` |
 | **[unraid-btop](https://github.com/Greite/unraid-btop)** | Unraid plugin for btop - the terminal resource monitor, plus a native Unraid dashboard tile. Auto-updated via CI. | `2026-07-08` |
-| **[unraid-templates](https://github.com/Greite/unraid-templates)** | Unraid Community Applications templates for GreiteTurtle's self-hosted Docker apps (speedtest-monitor, database-backup, ...) | `2026-07-07` |
-| **[speedtest-monitor](https://github.com/Greite/speedtest-monitor)** | Self-hosted internet speed monitor (Cloudflare speedtest) with alerts, OIDC auth, live dashboard. Bun + Next.js 16 + SQLite. | `2026-07-01` |
 | **[jean-michel-volume](https://github.com/Greite/jean-michel-volume)** | Jean-Michel Volume - Controlez le volume Spotify avec votre voix. Enregistrez 5 secondes et le volume s'ajuste automatiquement au pic maximum. | `2026-06-22` |
 <!-- RECENT_ACTIVITY:END -->
 
@@ -60,11 +60,11 @@
 ## 🔤 Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-61%25-3178C6?style=flat-square" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Go-26%25-00ADD8?style=flat-square" alt="Go" />
-  <img src="https://img.shields.io/badge/PHP-5.9%25-777BB4?style=flat-square" alt="PHP" />
+  <img src="https://img.shields.io/badge/TypeScript-61.2%25-3178C6?style=flat-square" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-25.9%25-00ADD8?style=flat-square" alt="Go" />
+  <img src="https://img.shields.io/badge/PHP-5.8%25-777BB4?style=flat-square" alt="PHP" />
   <img src="https://img.shields.io/badge/JavaScript-2.1%25-F7DF1E?style=flat-square" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/CSS-2.1%25-1572B6?style=flat-square" alt="CSS" />
+  <img src="https://img.shields.io/badge/CSS-2%25-1572B6?style=flat-square" alt="CSS" />
   <img src="https://img.shields.io/badge/HTML-1.3%25-E34F26?style=flat-square" alt="HTML" />
 </p>
 <!-- LANGUAGES:END -->
