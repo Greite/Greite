@@ -37,7 +37,7 @@
 
 | Project | Description | Last Push |
 |---------|-------------|-----------|
-| **[speedtest-monitor](https://github.com/Greite/speedtest-monitor)** | Self-hosted internet speed monitor (Cloudflare speedtest) with alerts, OIDC auth, live dashboard. Bun + Next.js 16 + SQLite. | `2026-07-23` |
+| **[speedtest-monitor](https://github.com/Greite/speedtest-monitor)** | Self-hosted internet speed monitor (Cloudflare speedtest) with alerts, OIDC auth, live dashboard. Bun + Next.js 16 + SQLite. | `2026-07-24` |
 | **[unraid-btop](https://github.com/Greite/unraid-btop)** | Unraid plugin for btop - the terminal resource monitor, plus a native Unraid dashboard tile. Auto-updated via CI. | `2026-07-23` |
 | **[portfolio](https://github.com/Greite/portfolio)** | Portfolio personnel de Gauthier Painteaux - Développeur web fullstack basé à Reims, France. Built with Next.js, React, TypeScript & Tailwind CSS. | `2026-07-22` |
 | **[wordpress-redis](https://github.com/Greite/wordpress-redis)** | WordPress Docker image with phpredis extension, auto-updated from upstream | `2026-07-21` |
