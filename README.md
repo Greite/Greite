@@ -24,10 +24,10 @@
 | | Project | Description | ⭐ |
 |---|---------|-------------|----|
 | 1 | **[speedtest-monitor](https://github.com/Greite/speedtest-monitor)** | Self-hosted internet speed monitor (Cloudflare speedtest) with alerts, OIDC auth, live dashboard. Bun + Next.js 16 + SQLite. | 4 |
-| 2 | **[database-backup](https://github.com/Greite/database-backup)** | Lightweight Go-powered Docker container for scheduled PostgreSQL, MariaDB/MySQL and MongoDB backups - rotation, gpg/age encryption, native healthchecks | 1 |
-| 3 | **[portfolio](https://github.com/Greite/portfolio)** | Portfolio personnel de Gauthier Painteaux - Développeur web fullstack basé à Reims, France. Built with Next.js, React, TypeScript & Tailwind CSS. | 1 |
-| 4 | **[unraid-btop](https://github.com/Greite/unraid-btop)** | Unraid plugin for btop - the terminal resource monitor, plus a native Unraid dashboard tile. Auto-updated via CI. | 1 |
-| 5 | **[unraid-tui](https://github.com/Greite/unraid-tui)** | Terminal UI for monitoring and managing Unraid servers | 1 |
+| 2 | **[wordpress-redis](https://github.com/Greite/wordpress-redis)** | WordPress Docker image with phpredis extension, auto-updated from upstream | 2 |
+| 3 | **[database-backup](https://github.com/Greite/database-backup)** | Lightweight Go-powered Docker container for scheduled PostgreSQL, MariaDB/MySQL and MongoDB backups - rotation, gpg/age encryption, native healthchecks | 1 |
+| 4 | **[portfolio](https://github.com/Greite/portfolio)** | Portfolio personnel de Gauthier Painteaux - Développeur web fullstack basé à Reims, France. Built with Next.js, React, TypeScript & Tailwind CSS. | 1 |
+| 5 | **[unraid-btop](https://github.com/Greite/unraid-btop)** | Unraid plugin for btop - the terminal resource monitor, plus a native Unraid dashboard tile. Auto-updated via CI. | 1 |
 <!-- TOP_PROJECTS:END -->
 
 ---
@@ -37,9 +37,9 @@
 
 | Project | Description | Last Push |
 |---------|-------------|-----------|
-| **[speedtest-monitor](https://github.com/Greite/speedtest-monitor)** | Self-hosted internet speed monitor (Cloudflare speedtest) with alerts, OIDC auth, live dashboard. Bun + Next.js 16 + SQLite. | `2026-08-11` |
+| **[speedtest-monitor](https://github.com/Greite/speedtest-monitor)** | Self-hosted internet speed monitor (Cloudflare speedtest) with alerts, OIDC auth, live dashboard. Bun + Next.js 16 + SQLite. | `2026-08-12` |
+| **[portfolio](https://github.com/Greite/portfolio)** | Portfolio personnel de Gauthier Painteaux - Développeur web fullstack basé à Reims, France. Built with Next.js, React, TypeScript & Tailwind CSS. | `2026-08-12` |
 | **[unraid-btop](https://github.com/Greite/unraid-btop)** | Unraid plugin for btop - the terminal resource monitor, plus a native Unraid dashboard tile. Auto-updated via CI. | `2026-08-09` |
-| **[portfolio](https://github.com/Greite/portfolio)** | Portfolio personnel de Gauthier Painteaux - Développeur web fullstack basé à Reims, France. Built with Next.js, React, TypeScript & Tailwind CSS. | `2026-08-08` |
 | **[wordpress-redis](https://github.com/Greite/wordpress-redis)** | WordPress Docker image with phpredis extension, auto-updated from upstream | `2026-07-21` |
 | **[database-backup](https://github.com/Greite/database-backup)** | Lightweight Go-powered Docker container for scheduled PostgreSQL, MariaDB/MySQL and MongoDB backups - rotation, gpg/age encryption, native healthchecks | `2026-07-16` |
 <!-- RECENT_ACTIVITY:END -->
@@ -60,10 +60,10 @@
 ## 🔤 Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-57.2%25-3178C6?style=flat-square" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Go-26.7%25-00ADD8?style=flat-square" alt="Go" />
+  <img src="https://img.shields.io/badge/TypeScript-57%25-3178C6?style=flat-square" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-26.8%25-00ADD8?style=flat-square" alt="Go" />
   <img src="https://img.shields.io/badge/PHP-6.3%25-777BB4?style=flat-square" alt="PHP" />
-  <img src="https://img.shields.io/badge/CSS-3.7%25-1572B6?style=flat-square" alt="CSS" />
+  <img src="https://img.shields.io/badge/CSS-3.8%25-1572B6?style=flat-square" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-3%25-F7DF1E?style=flat-square" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML-1.3%25-E34F26?style=flat-square" alt="HTML" />
 </p>
