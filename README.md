@@ -60,10 +60,10 @@
 ## 🔤 Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-57%25-3178C6?style=flat-square" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Go-26.8%25-00ADD8?style=flat-square" alt="Go" />
+  <img src="https://img.shields.io/badge/TypeScript-57.2%25-3178C6?style=flat-square" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-26.7%25-00ADD8?style=flat-square" alt="Go" />
   <img src="https://img.shields.io/badge/PHP-6.3%25-777BB4?style=flat-square" alt="PHP" />
-  <img src="https://img.shields.io/badge/CSS-3.8%25-1572B6?style=flat-square" alt="CSS" />
+  <img src="https://img.shields.io/badge/CSS-3.7%25-1572B6?style=flat-square" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-3%25-F7DF1E?style=flat-square" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML-1.3%25-E34F26?style=flat-square" alt="HTML" />
 </p>
