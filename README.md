@@ -37,11 +37,11 @@
 
 | Project | Description | Last Push |
 |---------|-------------|-----------|
-| **[speedtest-monitor](https://github.com/Greite/speedtest-monitor)** | Self-hosted internet speed monitor (Cloudflare speedtest) with alerts, OIDC auth, live dashboard. Bun + Next.js 16 + SQLite. | `2026-08-28` |
+| **[speedtest-monitor](https://github.com/Greite/speedtest-monitor)** | Self-hosted internet speed monitor (Cloudflare speedtest) with alerts, OIDC auth, live dashboard. Bun + Next.js 16 + SQLite. | `2026-08-29` |
+| **[unraid-docker-rolling-update](https://github.com/Greite/unraid-docker-rolling-update)** | Unraid plugin: health-gated rolling updates with automatic rollback for Docker containers (opt-in blue/green behind Traefik) | `2026-08-28` |
 | **[portfolio](https://github.com/Greite/portfolio)** | Portfolio personnel de Gauthier Painteaux - Développeur web fullstack basé à Reims, France. Built with Next.js, React, TypeScript & Tailwind CSS. | `2026-08-28` |
 | **[pic-smaller-docker](https://github.com/Greite/pic-smaller-docker)** | Unofficial Docker image of joye61/pic-smaller, rebuilt automatically on every upstream commit (GHCR, amd64/arm64, Unraid template) | `2026-08-26` |
 | **[database-backup](https://github.com/Greite/database-backup)** | Lightweight Go-powered Docker container for scheduled PostgreSQL, MariaDB/MySQL and MongoDB backups - rotation, gpg/age encryption, native healthchecks | `2026-08-26` |
-| **[unraid-btop](https://github.com/Greite/unraid-btop)** | Unraid plugin for btop - the terminal resource monitor, plus a native Unraid dashboard tile. Auto-updated via CI. | `2026-08-09` |
 <!-- RECENT_ACTIVITY:END -->
 
 ---
@@ -60,11 +60,11 @@
 ## 🔤 Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-57.7%25-3178C6?style=flat-square" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Go-26.4%25-00ADD8?style=flat-square" alt="Go" />
-  <img src="https://img.shields.io/badge/PHP-6.2%25-777BB4?style=flat-square" alt="PHP" />
-  <img src="https://img.shields.io/badge/CSS-3.7%25-1572B6?style=flat-square" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-3%25-F7DF1E?style=flat-square" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-55.7%25-3178C6?style=flat-square" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-25.5%25-00ADD8?style=flat-square" alt="Go" />
+  <img src="https://img.shields.io/badge/PHP-9.1%25-777BB4?style=flat-square" alt="PHP" />
+  <img src="https://img.shields.io/badge/CSS-3.6%25-1572B6?style=flat-square" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-2.9%25-F7DF1E?style=flat-square" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML-1.3%25-E34F26?style=flat-square" alt="HTML" />
 </p>
 <!-- LANGUAGES:END -->
