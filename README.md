@@ -37,11 +37,11 @@
 
 | Project | Description | Last Push |
 |---------|-------------|-----------|
-| **[speedtest-monitor](https://github.com/Greite/speedtest-monitor)** | Self-hosted internet speed monitor (Cloudflare speedtest) with alerts, OIDC auth, live dashboard. Bun + Next.js 16 + SQLite. | `2026-09-23` |
-| **[portfolio](https://github.com/Greite/portfolio)** | Portfolio personnel de Gauthier Painteaux - Développeur web fullstack basé à Reims, France. Built with Next.js, React, TypeScript & Tailwind CSS. | `2026-09-23` |
+| **[speedtest-monitor](https://github.com/Greite/speedtest-monitor)** | Self-hosted internet speed monitor (Cloudflare speedtest) with alerts, OIDC auth, live dashboard. Bun + Next.js 16 + SQLite. | `2026-09-24` |
+| **[portfolio](https://github.com/Greite/portfolio)** | Portfolio personnel de Gauthier Painteaux - Développeur web fullstack basé à Reims, France. Built with Next.js, React, TypeScript & Tailwind CSS. | `2026-09-24` |
+| **[sftp-docker](https://github.com/Greite/sftp-docker)** | SFTP-only OpenSSH server on Debian: one chroot per user, built-in brute-force protection, rebuilt automatically on Debian security updates | `2026-09-24` |
 | **[database-backup](https://github.com/Greite/database-backup)** | Lightweight Go-powered Docker container for scheduled PostgreSQL, MariaDB/MySQL and MongoDB backups - rotation, gpg/age encryption, native healthchecks | `2026-09-17` |
 | **[wordpress-redis](https://github.com/Greite/wordpress-redis)** | WordPress Docker image with phpredis extension, auto-updated from upstream | `2026-09-16` |
-| **[unraid-templates](https://github.com/Greite/unraid-templates)** | Unraid Community Applications templates for GreiteTurtle's self-hosted Docker apps (speedtest-monitor, database-backup, ...) | `2026-09-15` |
 <!-- RECENT_ACTIVITY:END -->
 
 ---
@@ -66,6 +66,7 @@
   <img src="https://img.shields.io/badge/CSS-3.9%25-1572B6?style=flat-square" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-2.7%25-F7DF1E?style=flat-square" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML-1.2%25-E34F26?style=flat-square" alt="HTML" />
+  <img src="https://img.shields.io/badge/Shell-1%25-89E051?style=flat-square" alt="Shell" />
 </p>
 <!-- LANGUAGES:END -->
 
