@@ -60,13 +60,12 @@
 ## 🔤 Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-45.4%25-3178C6?style=flat-square" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/TypeScript-45.2%25-3178C6?style=flat-square" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Go-21.1%25-00ADD8?style=flat-square" alt="Go" />
-  <img src="https://img.shields.io/badge/Python-16.2%25-3776AB?style=flat-square" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-8.4%25-777BB4?style=flat-square" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-16.6%25-3776AB?style=flat-square" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-8.3%25-777BB4?style=flat-square" alt="PHP" />
   <img src="https://img.shields.io/badge/CSS-3.3%25-1572B6?style=flat-square" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-2.3%25-F7DF1E?style=flat-square" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML-1%25-E34F26?style=flat-square" alt="HTML" />
 </p>
 <!-- LANGUAGES:END -->
 
