@@ -37,9 +37,9 @@
 
 | Project | Description | Last Push |
 |---------|-------------|-----------|
-| **[speedtest-monitor](https://github.com/Greite/speedtest-monitor)** | Self-hosted internet speed monitor (Cloudflare speedtest) with alerts, OIDC auth, live dashboard. Bun + Next.js 16 + SQLite. | `2026-10-22` |
-| **[portfolio](https://github.com/Greite/portfolio)** | Portfolio personnel de Gauthier Painteaux - Développeur web fullstack basé à Reims, France. Built with Next.js, React, TypeScript & Tailwind CSS. | `2026-10-22` |
-| **[ha-ravelli-smart-wifi](https://github.com/Greite/ha-ravelli-smart-wifi)** | Home Assistant integration for the Ravelli Smart Wi-Fi module (unofficial) | `2026-10-22` |
+| **[speedtest-monitor](https://github.com/Greite/speedtest-monitor)** | Self-hosted internet speed monitor (Cloudflare speedtest) with alerts, OIDC auth, live dashboard. Bun + Next.js 16 + SQLite. | `2026-10-23` |
+| **[portfolio](https://github.com/Greite/portfolio)** | Portfolio personnel de Gauthier Painteaux - Développeur web fullstack basé à Reims, France. Built with Next.js, React, TypeScript & Tailwind CSS. | `2026-10-23` |
+| **[ha-ravelli-smart-wifi](https://github.com/Greite/ha-ravelli-smart-wifi)** | Home Assistant integration for the Ravelli Smart Wi-Fi module (unofficial) | `2026-10-23` |
 | **[database-backup](https://github.com/Greite/database-backup)** | Lightweight Go-powered Docker container for scheduled PostgreSQL, MariaDB/MySQL and MongoDB backups - rotation, gpg/age encryption, native healthchecks | `2026-10-01` |
 | **[sftp-docker](https://github.com/Greite/sftp-docker)** | SFTP-only OpenSSH server on Debian: one chroot per user, built-in brute-force protection, rebuilt automatically on Debian security updates | `2026-09-25` |
 <!-- RECENT_ACTIVITY:END -->
@@ -60,12 +60,12 @@
 ## 🔤 Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-48%25-3178C6?style=flat-square" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Go-20%25-00ADD8?style=flat-square" alt="Go" />
-  <img src="https://img.shields.io/badge/Python-15.8%25-3776AB?style=flat-square" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-7.9%25-777BB4?style=flat-square" alt="PHP" />
-  <img src="https://img.shields.io/badge/CSS-3.1%25-1572B6?style=flat-square" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-2.2%25-F7DF1E?style=flat-square" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-47.2%25-3178C6?style=flat-square" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-19.7%25-00ADD8?style=flat-square" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-15.9%25-3776AB?style=flat-square" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-7.8%25-777BB4?style=flat-square" alt="PHP" />
+  <img src="https://img.shields.io/badge/CSS-3.5%25-1572B6?style=flat-square" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-2.9%25-F7DF1E?style=flat-square" alt="JavaScript" />
 </p>
 <!-- LANGUAGES:END -->
 
