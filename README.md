@@ -37,10 +37,10 @@
 
 | Project | Description | Last Push |
 |---------|-------------|-----------|
-| **[speedtest-monitor](https://github.com/Greite/speedtest-monitor)** | Self-hosted internet speed monitor (Cloudflare speedtest) with alerts, OIDC auth, live dashboard. Bun + Next.js 16 + SQLite. | `2026-11-18` |
-| **[database-backup](https://github.com/Greite/database-backup)** | Lightweight Go-powered Docker container for scheduled PostgreSQL, MariaDB/MySQL and MongoDB backups - rotation, gpg/age encryption, native healthchecks | `2026-11-14` |
+| **[database-backup](https://github.com/Greite/database-backup)** | Lightweight Go-powered Docker container for scheduled PostgreSQL, MariaDB/MySQL and MongoDB backups - rotation, gpg/age encryption, native healthchecks | `2026-11-19` |
+| **[speedtest-monitor](https://github.com/Greite/speedtest-monitor)** | Self-hosted internet speed monitor (Cloudflare speedtest) with alerts, OIDC auth, live dashboard. Bun + Next.js 16 + SQLite. | `2026-11-19` |
+| **[ha-ravelli-smart-wifi](https://github.com/Greite/ha-ravelli-smart-wifi)** | Home Assistant integration for the Ravelli Smart Wi-Fi module (unofficial) | `2026-11-18` |
 | **[unraid-templates](https://github.com/Greite/unraid-templates)** | Unraid Community Applications templates for GreiteTurtle's self-hosted Docker apps (speedtest-monitor, database-backup, ...) | `2026-11-10` |
-| **[ha-ravelli-smart-wifi](https://github.com/Greite/ha-ravelli-smart-wifi)** | Home Assistant integration for the Ravelli Smart Wi-Fi module (unofficial) | `2026-11-09` |
 | **[portfolio](https://github.com/Greite/portfolio)** | Portfolio personnel de Gauthier Painteaux - Développeur web fullstack basé à Reims, France. Built with Next.js, React, TypeScript & Tailwind CSS. | `2026-11-05` |
 <!-- RECENT_ACTIVITY:END -->
 
@@ -60,12 +60,12 @@
 ## 🔤 Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-46.5%25-3178C6?style=flat-square" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Go-19.3%25-00ADD8?style=flat-square" alt="Go" />
-  <img src="https://img.shields.io/badge/Python-17.4%25-3776AB?style=flat-square" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-7.6%25-777BB4?style=flat-square" alt="PHP" />
+  <img src="https://img.shields.io/badge/TypeScript-45.6%25-3178C6?style=flat-square" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-18.9%25-00ADD8?style=flat-square" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-18.9%25-3776AB?style=flat-square" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-7.5%25-777BB4?style=flat-square" alt="PHP" />
   <img src="https://img.shields.io/badge/CSS-3.4%25-1572B6?style=flat-square" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-2.8%25-F7DF1E?style=flat-square" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/JavaScript-2.7%25-F7DF1E?style=flat-square" alt="JavaScript" />
 </p>
 <!-- LANGUAGES:END -->
 
