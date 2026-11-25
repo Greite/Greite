@@ -37,7 +37,7 @@
 
 | Project | Description | Last Push |
 |---------|-------------|-----------|
-| **[speedtest-monitor](https://github.com/Greite/speedtest-monitor)** | Self-hosted internet speed monitor (Cloudflare speedtest) with alerts, OIDC auth, live dashboard. Bun + Next.js 16 + SQLite. | `2026-11-24` |
+| **[speedtest-monitor](https://github.com/Greite/speedtest-monitor)** | Self-hosted internet speed monitor (Cloudflare speedtest) with alerts, OIDC auth, live dashboard. Bun + Next.js 16 + SQLite. | `2026-11-25` |
 | **[ha-ravelli-smart-wifi](https://github.com/Greite/ha-ravelli-smart-wifi)** | Home Assistant integration for the Ravelli Smart Wi-Fi module (unofficial) | `2026-11-23` |
 | **[database-backup](https://github.com/Greite/database-backup)** | Lightweight Go-powered Docker container for scheduled PostgreSQL, MariaDB/MySQL and MongoDB backups - rotation, gpg/age encryption, native healthchecks | `2026-11-19` |
 | **[unraid-templates](https://github.com/Greite/unraid-templates)** | Unraid Community Applications templates for GreiteTurtle's self-hosted Docker apps (speedtest-monitor, database-backup, ...) | `2026-11-10` |
